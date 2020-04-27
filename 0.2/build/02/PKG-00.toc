@@ -1,0 +1,48 @@
+('C:\\Users\\super\\OneDrive\\Робочий стол\\pyton\\build\\02\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\super\\OneDrive\\Робочий стол\\pyton\\build\\02\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\super\\OneDrive\\Робочий '
+   'стол\\pyton\\build\\02\\localpycos\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\super\\onedrive\\робочий '
+   'стол\\pyton\\env\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\super\\onedrive\\робочий '
+   'стол\\pyton\\env\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\super\\onedrive\\робочий '
+   'стол\\pyton\\env\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\super\\onedrive\\робочий '
+   'стол\\pyton\\env\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\super\\OneDrive\\Робочий '
+   'стол\\pyton\\env\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\super\\OneDrive\\Робочий '
+   'стол\\pyton\\env\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('02', 'C:\\Users\\super\\OneDrive\\Робочий стол\\pyton\\02.py', 'PYSOURCE'),
+  ('02.exe.manifest',
+   'C:\\Users\\super\\OneDrive\\Робочий '
+   'стол\\pyton\\build\\02\\02.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
