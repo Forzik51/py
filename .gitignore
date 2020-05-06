@@ -1,1 +1,12 @@
 /env
+/0.2/env
+/0.2/__pycache__
+/0.2/dist
+/0.2/build
+/0.2/.vscode
+/0.3/env
+/0.5/env
+/1/env
+/1/lib/__pycache__
+/04/lib/__pycache__
+/04/env
